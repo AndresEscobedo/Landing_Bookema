@@ -9,7 +9,7 @@ Bookema es una aplicación web que busca mostrar la lectura como una alternativa
  
 Para usar Bookema solo tienes que seleccionar tus series o películas favoritas y la aplicación te recomendará libros del mismo género que es muy probable que te gusten, quien sabe, tal vez encuentres el libro de donde se inspiró la serie-película que diste de referencia.
 
-Soporte
+Soporte:<br>
 santiago2mil@gmail.com
 
 Roadmap<br>
