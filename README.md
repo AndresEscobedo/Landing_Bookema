@@ -1,6 +1,7 @@
 Bookema
 
 Bookema es una aplicación web que busca mostrar la lectura como una alternativa de entretenimiento y no como una obligación, quitando el estigma de "tarea" que mucha gente tiene sobre la lectura, aspirando a que leer un libro compita directamente con las plataformas de stream y videojuegos por tu tiempo libre.
+ 
  Características:
  -Rápido
  -Directo
