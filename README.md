@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="img/logo.png" alt="Logo" width="80" height="90">
+    <img src="img/logo.png" alt="Logo">
   </a>
 
   <h3 align="center">Bookema</h3>
